@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=2000&width=435&lines=Bem+vindo+ao+meu+perfil!" alt="Typing SVG" />
 </a>
 
-- 🔭 1º Semestre em Análise e Desenvolvimento de Sistemas - IFSP Campus Bragança Paulista
+- 🔭 2º Semestre em Análise e Desenvolvimento de Sistemas - IFSP Campus Bragança Paulista
 - 🌱 Estudando Javascript/Typescript e React para o Front-End e Java/Spring para o Back-End, com objetivo de ser um dev Full-stack
 
 #
