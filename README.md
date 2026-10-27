@@ -20,18 +20,7 @@
   <img height="34" width="34" src="https://cdn.simpleicons.org/mysql"/>
 </div>
 
-#
 
-<h3 align="left">Github Stats: </h3>
 
-<div style="display: block;">
-  <img align="left" alt="ErikPalazziDev's Github Stats" src="https://github-readme-stats-erikpalazzidevs-projects.vercel.app/api?username=ErikPalazziDev&theme=algolia&show_icons=true&hide_border=true">
-  <img align="left" alt="ErikPalazziDev's Github Top Langs" src="https://github-readme-stats-erikpalazzidevs-projects.vercel.app/api/top-langs/?username=ErikPalazziDev&theme=algolia&hide_border=true">
-</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErikPalazziDev/ErikPalazziDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErikPalazziDev/ErikPalazziDev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ErikPalazziDev/ErikPalazziDev/output/github-contribution-grid-snake.svg">
-</picture>
 
