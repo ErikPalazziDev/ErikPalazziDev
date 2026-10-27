@@ -8,14 +8,11 @@
 <h3 align="left">My Stack: </h3>
 
 <div>
-  <img height="34" width="34" src="https://cdn.simpleicons.org/html5"/>
-  <img height="34" width="34" src="https://cdn.simpleicons.org/css3"/>
+  <img height="34" width="34" src="https://cdn.simpleicons.org/C"/>
   <img height="34" width="34" src="https://cdn.simpleicons.org/javascript"/>
   <img height="34" width="34" src="https://cdn.simpleicons.org/react"/>
   <img height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img height="34" width="34" src="https://cdn.simpleicons.org/spring"/>
-  <img height="34" width="34" src="https://cdn.simpleicons.org/postgresql"/>
-  <img height="34" width="34" src="https://cdn.simpleicons.org/mysql"/>
 </div>
 
 
